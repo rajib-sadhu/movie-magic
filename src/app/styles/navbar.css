@@ -1,0 +1,24 @@
+.nav-link{
+    position: relative;
+    /* width: 100%; */
+    overflow: hidden;
+    /* background: #004834; */
+}
+
+.nav-link::before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: #50dbb4;
+    bottom: -5px;
+    left: 0;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.nav-link:hover::before{
+    transition: all .25s linear;
+    /* height: 30px; */
+    opacity: 1;
+}

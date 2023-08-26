@@ -1,0 +1,5247 @@
+
+   
+      [
+        {
+          "title": {
+            "id": "tt15398776",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Oppenheimer"
+            },
+            "primaryImage": {
+              "id": "rm2670601217",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+              "imageWidth": 2331,
+              "imageHeight": 3454
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.6,
+              "topRanking": {
+                "rank": 36
+              },
+              "voteCount": 383399
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Oppenheimer"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1517268",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Barbie"
+            },
+            "primaryImage": {
+              "id": "rm2419599361",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWIwZGY0OTYtZjUzYy00NzRmLTg5YzgtYWMzNWQ0MmZiY2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": {
+                "rank": 1479
+              },
+              "voteCount": 256644
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Barbie"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10172266",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Red, White & Royal Blue"
+            },
+            "primaryImage": {
+              "id": "rm2357024769",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Y0ZWEyODEtNzRmOS00YmE5LWE1NTYtOTNjZWM5NWFhZmM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 1944,
+              "imageHeight": 2880
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2470
+              },
+              "voteCount": 26750
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Red, White & Royal Blue"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9362930",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Blue Beetle"
+            },
+            "primaryImage": {
+              "id": "rm2069322497",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.7,
+              "topRanking": null,
+              "voteCount": 17864
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Blue Beetle"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15671028",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "No Hard Feelings"
+            },
+            "primaryImage": {
+              "id": "rm2510237441",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "imageWidth": 3373,
+              "imageHeight": 5000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "topRanking": {
+                "rank": 3760
+              },
+              "voteCount": 52042
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "No Hard Feelings"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6791350",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Guardians of the Galaxy Vol. 3"
+            },
+            "primaryImage": {
+              "id": "rm4101910785",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 886,
+              "imageHeight": 1312
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8,
+              "topRanking": {
+                "rank": 389
+              },
+              "voteCount": 295983
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Guardians of the Galaxy Vol. 3"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1001520",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Last Voyage of the Demeter"
+            },
+            "primaryImage": {
+              "id": "rm854404609",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTljMzRkNDItNjYxYS00ODA4LThiZjYtMjI0MTFjODlmMGJmXkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_.jpg",
+              "imageWidth": 4050,
+              "imageHeight": 6000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.4,
+              "topRanking": null,
+              "voteCount": 6681
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Last Voyage of the Demeter"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9362722",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Spider-Man: Across the Spider-Verse"
+            },
+            "primaryImage": {
+              "id": "rm1009725185",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+              "imageWidth": 1299,
+              "imageHeight": 1929
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.8,
+              "topRanking": {
+                "rank": 18
+              },
+              "voteCount": 238161
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Spider-Man: Across the Spider-Verse"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8589698",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+            },
+            "primaryImage": {
+              "id": "rm212476673",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzE4MTllZTktMTIyZS00Yzg1LTg1YzAtMWQwZTZkNjNkODNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.5,
+              "topRanking": null,
+              "voteCount": 19185
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14230388",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Asteroid City"
+            },
+            "primaryImage": {
+              "id": "rm2021272833",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDJmMzY0ZGUtYWE1My00OWViLTg1NTctOWMwZWJlNDQzNGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1600
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.7,
+              "topRanking": {
+                "rank": 3224
+              },
+              "voteCount": 64902
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Asteroid City"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9603212",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Mission: Impossible - Dead Reckoning Part One"
+            },
+            "primaryImage": {
+              "id": "rm462890241",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_.jpg",
+              "imageWidth": 695,
+              "imageHeight": 1023
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8,
+              "topRanking": {
+                "rank": 428
+              },
+              "voteCount": 131231
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Mission: Impossible - Dead Reckoning Part One"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt4495098",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Gran Turismo"
+            },
+            "primaryImage": {
+              "id": "rm815749633",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_.jpg",
+              "imageWidth": 6072,
+              "imageHeight": 9000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.3,
+              "topRanking": null,
+              "voteCount": 10985
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Gran Turismo"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6718170",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Super Mario Bros. Movie"
+            },
+            "primaryImage": {
+              "id": "rm1378366465",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg",
+              "imageWidth": 700,
+              "imageHeight": 1034
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2347
+              },
+              "voteCount": 183871
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Super Mario Bros. Movie"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15789038",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Elemental"
+            },
+            "primaryImage": {
+              "id": "rm1414736897",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "topRanking": {
+                "rank": 2468
+              },
+              "voteCount": 41815
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Elemental"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt7599146",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Sound of Freedom"
+            },
+            "primaryImage": {
+              "id": "rm1045832449",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAwNWQ1ZjQtZDFmMC00YjNlLWFlNjItMjJlYzZkMjJlNzkyXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1600
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.8,
+              "topRanking": {
+                "rank": 1322
+              },
+              "voteCount": 49499
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Sound of Freedom"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15441054",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Gadar 2"
+            },
+            "primaryImage": {
+              "id": "rm1540043521",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGEzMDJjNGUtYTFhZi00MDgyLWIzMzYtMzcwMDQyZjcyNGY1XkEyXkFqcGdeQXVyNTcwNTM5ODI@._V1_.jpg",
+              "imageWidth": 1148,
+              "imageHeight": 1530
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.2,
+              "topRanking": null,
+              "voteCount": 15052
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Gadar 2"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15153532",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Strays"
+            },
+            "primaryImage": {
+              "id": "rm3446481409",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWE0MWJkN2QtZDgzNS00MmU1LTljZGItYzA1MzEyOWU4Y2NlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1920
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.4,
+              "topRanking": null,
+              "voteCount": 3377
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Strays"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10640346",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Babylon"
+            },
+            "primaryImage": {
+              "id": "rm865155841",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2100
+              },
+              "voteCount": 140673
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Babylon"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13560574",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "X"
+            },
+            "primaryImage": {
+              "id": "rm701700609",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1350
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.6,
+              "topRanking": {
+                "rank": 3635
+              },
+              "voteCount": 141433
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "X"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1695843",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Haunted Mansion"
+            },
+            "primaryImage": {
+              "id": "rm1874534913",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTlmZmFkYTEtMDM4NS00NTgzLWFhODEtZjMxOTlmN2QxZTdiXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg",
+              "imageWidth": 864,
+              "imageHeight": 1280
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.2,
+              "topRanking": null,
+              "voteCount": 10910
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Haunted Mansion"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt5090568",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Transformers: Rise of the Beasts"
+            },
+            "primaryImage": {
+              "id": "rm1191194369",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4695
+              },
+              "voteCount": 74883
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Transformers: Rise of the Beasts"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt2906216",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Dungeons & Dragons: Honor Among Thieves"
+            },
+            "primaryImage": {
+              "id": "rm1362245633",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.3,
+              "topRanking": {
+                "rank": 1766
+              },
+              "voteCount": 170563
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Dungeons & Dragons: Honor Among Thieves"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15732324",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "OMG 2"
+            },
+            "primaryImage": {
+              "id": "rm3878836225",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmQ3MThkOWEtNTA0NC00YzI2LWIxZjEtZjdlZTVmNzQ2ZGViXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 1280,
+              "imageHeight": 1707
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.2,
+              "topRanking": null,
+              "voteCount": 20118
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "OMG 2"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt0439572",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Flash"
+            },
+            "primaryImage": {
+              "id": "rm3802082561",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2024,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.8,
+              "topRanking": {
+                "rank": 2897
+              },
+              "voteCount": 145853
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Flash"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt5971474",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Little Mermaid"
+            },
+            "primaryImage": {
+              "id": "rm1618294017",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1688,
+              "imageHeight": 2500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 5148
+              },
+              "voteCount": 111844
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Little Mermaid"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15509244",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Happiness for Beginners"
+            },
+            "primaryImage": {
+              "id": "rm2738038529",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2E5MTExODktMjEzYy00OTQ1LThiZGYtM2RiYTFjOWE0ODNlXkEyXkFqcGdeQXVyMjkwMjY1MjI@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1350
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": null,
+              "voteCount": 10927
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Happiness for Beginners"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1462764",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Indiana Jones and the Dial of Destiny"
+            },
+            "primaryImage": {
+              "id": "rm3009829121",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 1215,
+              "imageHeight": 1800
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.8,
+              "topRanking": {
+                "rank": 2934
+              },
+              "voteCount": 95204
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Indiana Jones and the Dial of Destiny"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11663228",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Jailer"
+            },
+            "primaryImage": {
+              "id": "rm353982465",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzFkNmZkMTctYjRhMS00ODZiLWFlNjQtZmZmN2IzMDJlNmVkXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_.jpg",
+              "imageWidth": 1313,
+              "imageHeight": 2048
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.6,
+              "topRanking": null,
+              "voteCount": 12799
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Jailer"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt4513678",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Ghostbusters: Afterlife"
+            },
+            "primaryImage": {
+              "id": "rm3349602817",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGY2NjUwODEtMGM5OS00MzhkLWEzYTUtYjkwMjFmNjhiN2FmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
+              "imageWidth": 935,
+              "imageHeight": 1381
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2422
+              },
+              "voteCount": 197742
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Ghostbusters: Afterlife"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1630029",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Avatar: The Way of Water"
+            },
+            "primaryImage": {
+              "id": "rm92486145",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+              "imageWidth": 900,
+              "imageHeight": 1289
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.6,
+              "topRanking": {
+                "rank": 1039
+              },
+              "voteCount": 452123
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Avatar: The Way of Water"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9873892",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "They Cloned Tyrone"
+            },
+            "primaryImage": {
+              "id": "rm473833729",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGM2YTRhOTgtOGU0My00NGIxLTgxMjEtY2U1YzZiZWQ3OGI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.7,
+              "topRanking": null,
+              "voteCount": 25782
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "They Cloned Tyrone"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1160419",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Dune: Part One"
+            },
+            "primaryImage": {
+              "id": "rm2910452737",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 509,
+              "imageHeight": 755
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8,
+              "topRanking": {
+                "rank": 291
+              },
+              "voteCount": 709533
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Dune"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1877830",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Batman"
+            },
+            "primaryImage": {
+              "id": "rm2474894849",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+              "imageWidth": 1382,
+              "imageHeight": 2048
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.8,
+              "topRanking": {
+                "rank": 606
+              },
+              "voteCount": 723836
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Batman"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1745960",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Top Gun: Maverick"
+            },
+            "primaryImage": {
+              "id": "rm3294367489",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "imageWidth": 2531,
+              "imageHeight": 3750
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.3,
+              "topRanking": {
+                "rank": 127
+              },
+              "voteCount": 624568
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Top Gun: Maverick"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6710474",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Everything Everywhere All at Once"
+            },
+            "primaryImage": {
+              "id": "rm316021249",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+              "imageWidth": 8699,
+              "imageHeight": 12599
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.8,
+              "topRanking": {
+                "rank": 580
+              },
+              "voteCount": 473992
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Everything Everywhere All at Once"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13833688",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Whale"
+            },
+            "primaryImage": {
+              "id": "rm752499201",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+              "imageWidth": 2013,
+              "imageHeight": 2863
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.7,
+              "topRanking": {
+                "rank": 870
+              },
+              "voteCount": 172518
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Whale"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14993250",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Rocky Aur Rani Kii Prem Kahaani"
+            },
+            "primaryImage": {
+              "id": "rm156116481",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2VmOTU2ZmItMGVmMy00NmZmLTk5Y2QtMmI5ODczNDkyZmNjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+              "imageWidth": 601,
+              "imageHeight": 745
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": null,
+              "voteCount": 30574
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Rocky Aur Rani Kii Prem Kahaani"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15679400",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Knock at the Cabin"
+            },
+            "primaryImage": {
+              "id": "rm3083615233",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDA0MzcxZTgtMTAzZC00MGJkLTg3YzItZjMzNjkwOTVlODNlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+              "imageWidth": 1000,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4665
+              },
+              "voteCount": 92242
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Knock at the Cabin"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6723592",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Tenet"
+            },
+            "primaryImage": {
+              "id": "rm668446209",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1012,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.3,
+              "topRanking": {
+                "rank": 1719
+              },
+              "voteCount": 554908
+            },
+            "releaseYear": {
+              "year": 2020,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Tenet"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt21276878",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "You Are So Not Invited to My Bat Mitzvah"
+            },
+            "primaryImage": {
+              "id": "rm2754959361",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWQ3ZDQ3MTYtZWUyOS00YmFhLTllOWItNzNmNjE0ZDI5YWE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 1500,
+              "imageHeight": 2222
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": null,
+              "voteCount": 1062
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "You Are So Not Invited to My Bat Mitzvah"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt5761544",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Kandahar"
+            },
+            "primaryImage": {
+              "id": "rm487861761",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjNiNDg2OWYtOGEzNy00M2E5LTgxZjItNzVmN2VmNTg3MzBhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "imageWidth": 810,
+              "imageHeight": 1200
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": null,
+              "voteCount": 19221
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Kandahar"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14537248",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Nefarious"
+            },
+            "primaryImage": {
+              "id": "rm3033542913",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@._V1_.jpg",
+              "imageWidth": 1920,
+              "imageHeight": 2985
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.4,
+              "topRanking": null,
+              "voteCount": 16611
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Nefarious"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13521006",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Beau Is Afraid"
+            },
+            "primaryImage": {
+              "id": "rm228342785",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 2765,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.8,
+              "topRanking": {
+                "rank": 2839
+              },
+              "voteCount": 38231
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Beau Is Afraid"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11358390",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Renfield"
+            },
+            "primaryImage": {
+              "id": "rm2964864001",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDIwYjVjMDMtOGYxMy00ZTRiLWE0YzktMjIwYmNhOGE4NGQ4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "imageWidth": 560,
+              "imageHeight": 887
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.4,
+              "topRanking": {
+                "rank": 4036
+              },
+              "voteCount": 65809
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Renfield"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9764362",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Menu"
+            },
+            "primaryImage": {
+              "id": "rm1001914881",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+              "imageWidth": 1334,
+              "imageHeight": 2000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 2024
+              },
+              "voteCount": 344230
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Menu"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt3915174",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Puss in Boots: The Last Wish"
+            },
+            "primaryImage": {
+              "id": "rm342562561",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_.jpg",
+              "imageWidth": 760,
+              "imageHeight": 1154
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.9,
+              "topRanking": {
+                "rank": 631
+              },
+              "voteCount": 151463
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Puss in Boots: The Last Wish"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt17663992",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Scream VI"
+            },
+            "primaryImage": {
+              "id": "rm91108353",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BODBjM2M4YTQtNmJlMS00MGU2LWI4ZGYtZTA1MzdmZDAyMjFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 2765,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "topRanking": {
+                "rank": 3667
+              },
+              "voteCount": 96285
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Scream VI"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt4614584",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Purple Hearts"
+            },
+            "primaryImage": {
+              "id": "rm2570324481",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+              "imageWidth": 1500,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.7,
+              "topRanking": {
+                "rank": 3269
+              },
+              "voteCount": 45729
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Purple Hearts"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10731256",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Don't Worry Darling"
+            },
+            "primaryImage": {
+              "id": "rm2558594561",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+              "imageWidth": 975,
+              "imageHeight": 1443
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": {
+                "rank": 4365
+              },
+              "voteCount": 125396
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Don't Worry Darling"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt17007120",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Beanie Bubble"
+            },
+            "primaryImage": {
+              "id": "rm3505268481",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BODEzNzRjY2EtY2U1My00YmZhLTkzMTYtMjhiNjI1ODJlNDE1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+              "imageWidth": 1000,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": null,
+              "voteCount": 5421
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Beanie Bubble"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10872600",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Spider-Man: No Way Home"
+            },
+            "primaryImage": {
+              "id": "rm3936939521",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+              "imageWidth": 2699,
+              "imageHeight": 4000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.2,
+              "topRanking": {
+                "rank": 158
+              },
+              "voteCount": 825675
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Spider-Man: No Way Home"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt28182736",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Puppy Love"
+            },
+            "primaryImage": {
+              "id": "rm1649353729",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjU3Mzg1NTctZjc5OS00YWRlLWFlZGUtM2MwZmM1ZmQ5YWU4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "imageWidth": 4050,
+              "imageHeight": 6000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": null,
+              "voteCount": 1642
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Puppy Love"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10151854",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Shazam! Fury of the Gods"
+            },
+            "primaryImage": {
+              "id": "rm653864961",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": {
+                "rank": 4916
+              },
+              "voteCount": 105018
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Shazam! Fury of the Gods"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt16419074",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Air"
+            },
+            "primaryImage": {
+              "id": "rm1991128577",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmNlOTNlYjUtM2U3Yy00M2ZjLTkxZDQtN2NiNGZiZDI0ZjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 1944,
+              "imageHeight": 2880
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": {
+                "rank": 1341
+              },
+              "voteCount": 138433
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Air"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6334354",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Suicide Squad"
+            },
+            "primaryImage": {
+              "id": "rm662696705",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1600
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 1942
+              },
+              "voteCount": 383783
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Suicide Squad"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13320622",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Lost City"
+            },
+            "primaryImage": {
+              "id": "rm3056854785",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "imageWidth": 2024,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4740
+              },
+              "voteCount": 138936
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Lost City"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt7322224",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Triangle of Sadness"
+            },
+            "primaryImage": {
+              "id": "rm366349825",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+              "imageWidth": 1456,
+              "imageHeight": 2160
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.3,
+              "topRanking": {
+                "rank": 1655
+              },
+              "voteCount": 151055
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Triangle of Sadness"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10954600",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Ant-Man and the Wasp: Quantumania"
+            },
+            "primaryImage": {
+              "id": "rm2537959681",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg",
+              "imageWidth": 810,
+              "imageHeight": 1200
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4763
+              },
+              "voteCount": 200399
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Ant-Man and the Wasp: Quantumania"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt7657566",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Death on the Nile"
+            },
+            "primaryImage": {
+              "id": "rm1287056641",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjI4ZTQ1OTYtNTI0Yi00M2EyLThiNjMtMzk1MmZlOWMyMDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": {
+                "rank": 4339
+              },
+              "voteCount": 166796
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Death on the Nile"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt19500164",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Nimona"
+            },
+            "primaryImage": {
+              "id": "rm1504716289",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ2YzJhOGItNTMyOC00YzFmLWExZjEtOGFmMDVkMDdmOGFiXkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_.jpg",
+              "imageWidth": 1280,
+              "imageHeight": 1896
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.6,
+              "topRanking": {
+                "rank": 1281
+              },
+              "voteCount": 27492
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Nimona"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15791034",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Barbarian"
+            },
+            "primaryImage": {
+              "id": "rm3095860225",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "topRanking": {
+                "rank": 2459
+              },
+              "voteCount": 157532
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Barbarian"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10098448",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Jesus Revolution"
+            },
+            "primaryImage": {
+              "id": "rm37620737",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjQ4M2JiMTEtNDhiMi00OWM1LTkwMWEtODdjYTQxNWQyOTFiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+              "imageWidth": 2000,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": null,
+              "voteCount": 10653
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Jesus Revolution"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14208870",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Fabelmans"
+            },
+            "primaryImage": {
+              "id": "rm1742340097",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+              "imageWidth": 546,
+              "imageHeight": 864
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.5,
+              "topRanking": {
+                "rank": 1096
+              },
+              "voteCount": 99436
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Fabelmans"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13849558",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Corner Office"
+            },
+            "primaryImage": {
+              "id": "rm538467073",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjg5ODc0NjItZTk5OS00M2UyLTkwOWMtNWM1MDBhZTQyZGQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1088,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": null,
+              "voteCount": 2332
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Corner Office"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt13238346",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Past Lives"
+            },
+            "primaryImage": {
+              "id": "rm1070082817",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+              "imageWidth": 972,
+              "imageHeight": 1440
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.3,
+              "topRanking": null,
+              "voteCount": 10708
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Past Lives"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9411972",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Where the Crawdads Sing"
+            },
+            "primaryImage": {
+              "id": "rm2552633345",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTJmNGJmYTgtYjAxNy00YmMzLTk2YTYtMGIzMmUwNDMyMTY1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "imageWidth": 600,
+              "imageHeight": 750
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 2080
+              },
+              "voteCount": 105582
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Where the Crawdads Sing"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt7888964",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Nobody"
+            },
+            "primaryImage": {
+              "id": "rm2907556609",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+              "imageWidth": 3158,
+              "imageHeight": 5000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": {
+                "rank": 1537
+              },
+              "voteCount": 301926
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Nobody"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11564570",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Glass Onion"
+            },
+            "primaryImage": {
+              "id": "rm3932489473",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",
+              "imageWidth": 1482,
+              "imageHeight": 2222
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2097
+              },
+              "voteCount": 407887
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Glass Onion"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11703244",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Blackening"
+            },
+            "primaryImage": {
+              "id": "rm4027660033",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGMzNzEyZWItYjUwZC00NmVkLTk5MWUtZGVjNWJlMjBjODA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6,
+              "topRanking": null,
+              "voteCount": 10318
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Blackening"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14914988",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Satyaprem Ki Katha"
+            },
+            "primaryImage": {
+              "id": "rm972628737",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTJiM2U3NTctNTAwNi00ZmQ5LThmNDUtYjI4MDdhYzQ5ZmExXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+              "imageWidth": 722,
+              "imageHeight": 904
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": null,
+              "voteCount": 19764
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Satyaprem Ki Katha"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt17076046",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Weird: The Al Yankovic Story"
+            },
+            "primaryImage": {
+              "id": "rm629541889",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWRiNmI1OTItYjc0Zi00YTYwLWI4OTEtMmE0YTNlODJkOTQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "imageWidth": 2000,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.9,
+              "topRanking": {
+                "rank": 2701
+              },
+              "voteCount": 33366
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Weird: The Al Yankovic Story"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10304142",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Amsterdam"
+            },
+            "primaryImage": {
+              "id": "rm1407255297",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDQwNzE0ZTItYmZjMC00NjI3LWFlNzctNTExZDY2NWE0Zjc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+              "imageWidth": 1000,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4639
+              },
+              "voteCount": 82550
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Amsterdam"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt15474916",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Smile"
+            },
+            "primaryImage": {
+              "id": "rm3357216257",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "topRanking": {
+                "rank": 3689
+              },
+              "voteCount": 138280
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Smile"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11245972",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Scream"
+            },
+            "primaryImage": {
+              "id": "rm1059724033",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjExYTcwYmYtMWY2Zi00MGJlLTk3YjUtZTU1Zjg4MDc0Y2FjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 690,
+              "imageHeight": 1024
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": {
+                "rank": 4331
+              },
+              "voteCount": 143755
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Scream"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11138512",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Northman"
+            },
+            "primaryImage": {
+              "id": "rm2924419329",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+              "imageWidth": 1382,
+              "imageHeight": 2048
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "topRanking": {
+                "rank": 2327
+              },
+              "voteCount": 234535
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Northman"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11286314",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Don't Look Up"
+            },
+            "primaryImage": {
+              "id": "rm1423829249",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjcwZjY3NjAtNzkxZS00NmFjLTg1OGYtODJmMThhY2UwMTc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1350
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 2031
+              },
+              "voteCount": 568725
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Don't Look Up"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt27688034",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Deo mun"
+            },
+            "primaryImage": {
+              "id": "rm2719636225",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzU4M2YzMzktNmJkZC00YzRmLWFkNWItZGM0YTc2NTBkNTAwXkEyXkFqcGdeQXVyMTU1MDczNjU1._V1_.jpg",
+              "imageWidth": 1979,
+              "imageHeight": 2836
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": null,
+              "voteCount": 6441
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Moon"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt21232992",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Theater Camp"
+            },
+            "primaryImage": {
+              "id": "rm4048363777",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOThlNmY4ZDYtYTVmYi00MDRiLWE3ZmYtNWI0MDJmMDcwZWIyXkEyXkFqcGdeQXVyMTE1OTYyNDgx._V1_.jpg",
+              "imageWidth": 1207,
+              "imageHeight": 1810
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.5,
+              "topRanking": null,
+              "voteCount": 2395
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Theater Camp"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt1649418",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Gray Man"
+            },
+            "primaryImage": {
+              "id": "rm2121338881",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "imageWidth": 1500,
+              "imageHeight": 2222
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "topRanking": {
+                "rank": 3816
+              },
+              "voteCount": 223770
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Gray Man"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt14444726",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Tár"
+            },
+            "primaryImage": {
+              "id": "rm1105529857",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1600
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": {
+                "rank": 1330
+              },
+              "voteCount": 79874
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Tár"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt7991608",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Red Notice"
+            },
+            "primaryImage": {
+              "id": "rm2565534977",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1500,
+              "imageHeight": 2222
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": {
+                "rank": 4358
+              },
+              "voteCount": 298641
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Red Notice"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6467266",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Sing 2"
+            },
+            "primaryImage": {
+              "id": "rm3770805761",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 3158,
+              "imageHeight": 5000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": {
+                "rank": 1705
+              },
+              "voteCount": 78454
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Sing 2"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt20913276",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Ghoomer"
+            },
+            "primaryImage": {
+              "id": "rm2733725697",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDcwYzg2ZDctNTFjMi00YjliLWFkNmYtOTBkZjQ1YzQ1MTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1440
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9.2,
+              "topRanking": null,
+              "voteCount": 8049
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Ghoomer"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt27542289",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Por Thozhil"
+            },
+            "primaryImage": {
+              "id": "rm2053513729",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMwMmU4ZTktMjVkZi00NTQ5LTg2ZjQtZGU2YzA5MWJkMWViXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
+              "imageWidth": 464,
+              "imageHeight": 826
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.1,
+              "topRanking": null,
+              "voteCount": 5216
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Por Thozhil"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8244784",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Hunt"
+            },
+            "primaryImage": {
+              "id": "rm4188322305",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 3158,
+              "imageHeight": 5000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.5,
+              "topRanking": {
+                "rank": 3648
+              },
+              "voteCount": 122506
+            },
+            "releaseYear": {
+              "year": 2020,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Hunt"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11291274",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The Unbearable Weight of Massive Talent"
+            },
+            "primaryImage": {
+              "id": "rm289347585",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7,
+              "topRanking": {
+                "rank": 2535
+              },
+              "voteCount": 133137
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The Unbearable Weight of Massive Talent"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8332922",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "A Quiet Place Part II"
+            },
+            "primaryImage": {
+              "id": "rm417579265",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "imageWidth": 1013,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 1975
+              },
+              "voteCount": 256263
+            },
+            "releaseYear": {
+              "year": 2020,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "A Quiet Place Part II"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9185206",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Are You There God? It's Me, Margaret."
+            },
+            "primaryImage": {
+              "id": "rm3161600257",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTBhNmM2ODgtNDI4My00MWM5LWIzYmYtYzQzNWViNzg5MmVlXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_.jpg",
+              "imageWidth": 3892,
+              "imageHeight": 6000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.4,
+              "topRanking": null,
+              "voteCount": 13061
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Are You There God? It's Me, Margaret."
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10275534",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Misanthrope"
+            },
+            "primaryImage": {
+              "id": "rm524626689",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGMyZjM5YWUtMjVmMC00NmQ2LTgyMWEtNjYzZDFkYTIyMjFhXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+              "imageWidth": 1382,
+              "imageHeight": 2048
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.6,
+              "topRanking": null,
+              "voteCount": 21434
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "To Catch a Killer"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt11866324",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Prey"
+            },
+            "primaryImage": {
+              "id": "rm4094888705",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2115
+              },
+              "voteCount": 212287
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Prey"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8936646",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Extraction"
+            },
+            "primaryImage": {
+              "id": "rm2618735617",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+              "imageWidth": 1500,
+              "imageHeight": 2222
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.8,
+              "topRanking": {
+                "rank": 3103
+              },
+              "voteCount": 249003
+            },
+            "releaseYear": {
+              "year": 2020,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Extraction"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt3704428",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Elvis"
+            },
+            "primaryImage": {
+              "id": "rm2773619457",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.3,
+              "topRanking": {
+                "rank": 1711
+              },
+              "voteCount": 214442
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Elvis"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt12361974",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Zack Snyder's Justice League"
+            },
+            "primaryImage": {
+              "id": "rm323864577",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "imageWidth": 2025,
+              "imageHeight": 3000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.9,
+              "topRanking": {
+                "rank": 487
+              },
+              "voteCount": 422157
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Zack Snyder's Justice League"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8847712",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "The French Dispatch"
+            },
+            "primaryImage": {
+              "id": "rm942997249",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "imageWidth": 1013,
+              "imageHeight": 1500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.1,
+              "topRanking": {
+                "rank": 2187
+              },
+              "voteCount": 140392
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "The French Dispatch"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt8178634",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "RRR (Rise Roar Revolt)"
+            },
+            "primaryImage": {
+              "id": "rm535173377",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+              "imageWidth": 750,
+              "imageHeight": 1000
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.8,
+              "topRanking": {
+                "rank": 837
+              },
+              "voteCount": 155602
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "RRR"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt6443346",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Black Adam"
+            },
+            "primaryImage": {
+              "id": "rm2091778049",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "imageWidth": 2764,
+              "imageHeight": 4096
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.3,
+              "topRanking": {
+                "rank": 4702
+              },
+              "voteCount": 257386
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Black Adam"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt9419884",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Doctor Strange in the Multiverse of Madness"
+            },
+            "primaryImage": {
+              "id": "rm339811841",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+              "imageWidth": 1688,
+              "imageHeight": 2500
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.9,
+              "topRanking": {
+                "rank": 2748
+              },
+              "voteCount": 450753
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Doctor Strange in the Multiverse of Madness"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt19755170",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Bawaal"
+            },
+            "primaryImage": {
+              "id": "rm3782157825",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ0NTE5NjUtZTQ5Mi00NWY0LTg3NDctNGI5NWIwNjdhYjA5XkEyXkFqcGdeQXVyMzcwMjU2NQ@@._V1_.jpg",
+              "imageWidth": 1080,
+              "imageHeight": 1350
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.6,
+              "topRanking": null,
+              "voteCount": 13362
+            },
+            "releaseYear": {
+              "year": 2023,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Bawaal"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt3581652",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "West Side Story"
+            },
+            "primaryImage": {
+              "id": "rm3336497409",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzQ5ZDZhZDItZTNmZi00MWQ0LWJlNDUtZTE4ZWJmODNlM2Y3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+              "imageWidth": 743,
+              "imageHeight": 1100
+            },
+            "ratingsSummary": {
+              "aggregateRating": 7.2,
+              "topRanking": {
+                "rank": 2122
+              },
+              "voteCount": 90337
+            },
+            "releaseYear": {
+              "year": 2021,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "West Side Story"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        },
+        {
+          "title": {
+            "id": "tt10403420",
+            "isAdult": false,
+            "canRateTitle": {
+              "isRatable": true
+            },
+            "originalTitleText": {
+              "text": "Terrifier 2"
+            },
+            "primaryImage": {
+              "id": "rm3933604865",
+              "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_.jpg",
+              "imageWidth": 740,
+              "imageHeight": 1090
+            },
+            "ratingsSummary": {
+              "aggregateRating": 6.1,
+              "topRanking": {
+                "rank": 4480
+              },
+              "voteCount": 39188
+            },
+            "releaseYear": {
+              "year": 2022,
+              "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+              "text": "Terrifier 2"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "displayableProperty": {
+                "value": {
+                  "plainText": ""
+                }
+              },
+              "categories": [
+                {
+                  "id": "movie",
+                  "text": "Movie",
+                  "value": "movie"
+                }
+              ],
+              "canHaveEpisodes": false,
+              "isSeries": false,
+              "isEpisode": false
+            },
+            "series": null
+          }
+        }
+      ]
+    
