@@ -5,9 +5,9 @@ import { AiFillStar } from "react-icons/ai";
 
 const TopMovies = () => {
     return (
-        <div className="text-black bg-white py-10 px-40 h-[40rem]" >
+        <div className="text-black bg-white py-10 md:px-40 px-5 min-h-[40rem]" >
             <TitlesComponent title={'Top Movies in Theater'} subtitle={'Checkout Top Movies'} />
-            <div className="flex justify-between">
+            <div className="flex justify-between md:flex-row flex-col items-center gap-5">
                 <div className="top-movies w-[200px] h-[300px]" >
                     <Image src={`https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_.jpg`}
                         width={200} height={300} className="object-cover h-full" />

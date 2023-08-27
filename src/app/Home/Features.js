@@ -7,20 +7,20 @@ import Image from 'next/image';
 
 const Features = () => {
     return (
-        <div className="bg-slate-300 h-28 px-40 flex items-center justify-between">
-            <div className='text-slate-500' >
+        <div className="bg-slate-300 min-h-28 md:px-40 flex items-center justify-between flex-wrap md:p-0 p-5">
+            <div className='text-slate-500 feature-icons' >
                 <PiFilmReel className='text-6xl mx-auto' />
                 <h4 className='text-xl font-semibold' >Cinemas</h4>
             </div>
-            <div className='text-slate-500' >
+            <div className='text-slate-500 feature-icons' >
                 <AiOutlineGift className='text-6xl mx-auto' />
                 <h4 className='text-xl font-semibold' >Promotions</h4>
             </div>
-            <div className='text-slate-500' >
+            <div className='text-slate-500 feature-icons' >
                 <HiCreditCard className='text-6xl mx-auto' />
                 <h4 className='text-xl font-semibold' >Vouchers</h4>
             </div>
-            <div className='text-slate-500' >
+            <div className='text-slate-500 feature-icons' >
                 <BiSolidCoupon className='text-6xl mx-auto' />
                 <h4 className='text-xl font-semibold' >Buy Tickets</h4>
             </div>

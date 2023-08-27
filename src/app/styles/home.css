@@ -13,18 +13,29 @@
     background-color: #02B290;
 }
 
-.text-shadow{
+.text-shadow {
     text-shadow: 3px 5px 3px #111111;
 }
 
-.top-movies{
+.top-movies {
     position: relative;
     overflow: hidden;
 }
-.top-movie-details{
+
+.top-movie-details {
     top: 100%;
     transition: all .3s linear;
 }
-.top-movies:hover .top-movie-details{
+
+.top-movies:hover .top-movie-details {
     top: 0;
+}
+
+.feature-icons {
+    transition: all .2s linear;
+}
+
+.feature-icons:hover {
+    transform: translate(0, -.6rem);
+    color: #1FAA59;
 }
