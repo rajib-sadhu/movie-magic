@@ -1,0 +1,23 @@
+.footer-links{
+display: flex;
+flex-direction: column;
+align-items: start;
+}
+.footer-links >li{
+    position: relative;
+    overflow: hidden;
+    height: 25px;
+}
+.footer-links>li::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #1C8D73;
+    bottom: 0;
+    left: -100%;
+    transition: all .3s linear;
+}
+.footer-links>li:hover::after{
+    left: 0;
+}

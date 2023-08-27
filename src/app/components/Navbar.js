@@ -36,9 +36,9 @@ const Navbar = () => {
 
     return (
         <header className={`${colorChange && 'backdrop-brightness-[.4] '} fixed md:top-0 -top-1 z-30 w-screen `} >
-            <nav className={`flex justify-between md:py-5 py-2 md:px-20 px-5 items-center`} >
+            <nav className={`flex justify-between ${colorChange || 'md:py-5'} py-2 md:px-20 px-5 items-center`} >
                 <Image src={colorChange ? '/Movie.png' : '/movie-bg-less.png'} width={150} height={50} alt="head"
-                    className={`${colorChange ? 'h-[4rem]' : 'h-[3rem] py-2'} object-contain object-left`}
+                    className={`${colorChange ? 'h-[4rem]' : 'h-[2.5rem]'} object-contain object-left`}
                 />
                 <ul className="md:flex hidden gap-8" >
                     {list}

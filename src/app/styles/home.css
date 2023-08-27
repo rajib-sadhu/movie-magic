@@ -33,6 +33,10 @@
 
 .feature-icons {
     transition: all .2s linear;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .feature-icons:hover {
