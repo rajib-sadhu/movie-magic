@@ -32,7 +32,9 @@ const TopMovies = () => {
                     data.map((item, i) => {
                         return (<div key={i} className="top-movies w-[200px] h-[300px]" >
                             <Image src={item.img}
-                                width={200} height={300} className="object-cover h-full" />
+                                width={200} height={300} className="object-cover h-full" 
+                                alt="Top movies"
+                                />
                             <div className="absolute w-full h-full bg-[#1c8d73e6] top-movie-details p-5" >
                                 <h1 className="text-2xl font-semibold text-[#c5ffef]" >{item.name}</h1>
                                 <p className="text-sm text-white" >

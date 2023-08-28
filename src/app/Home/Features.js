@@ -30,7 +30,7 @@ const Features = () => {
                 <h4 className='md:text-xl font-semibold' >Buy Tickets</h4>
             </div>
             <div>
-                <Image src={`/popcorn.png`} width={50} height={100} className='md:w-[5rem] w-[4rem] mx-auto' />
+                <Image alt="Features" src={`/popcorn.png`} width={50} height={100} className='md:w-[5rem] w-[4rem] mx-auto' />
             </div>
         </div>
     );

@@ -37,9 +37,9 @@ const Posters = () => {
                     modules={[Autoplay]}
                 >
                     {
-                        [...Array(10)].map((img, i) => <SwiperSlide key={i}>
+                        [...Array(10)].map((_, i) => <SwiperSlide key={i}>
                             <PhotoView src={`https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg`} >
-                                <Image src={`https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg`} width={500} height={700} className='cursor-pointer' />
+                                <Image src={`https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg`} width={500} height={700} className='cursor-pointer' alt="Posters" />
                             </PhotoView>
                         </SwiperSlide>)
                     }

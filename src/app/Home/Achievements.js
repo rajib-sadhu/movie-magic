@@ -9,7 +9,7 @@ const Achievements = () => {
     return (
         <>
             <div className="md:h-[35rem] h-[20rem] relative" >
-                <Image src={`/cinema-hall.jpg`} width={1500} height={1200} className="w-full h-3/4 object-cover" />
+                <Image src={`/cinema-hall.jpg`} alt="Achievement" width={1500} height={1200} className="w-full h-3/4 object-cover" />
                 <section className="md:w-3/4 w-11/12 md:h-60 h-24 bg-white text-black md:border-b-8 border-b-2 border-[#50DBB4] absolute left-1/2 -translate-x-1/2 md:bottom-14 bottom-16" >
                     <div className="h-full w-full md:px-20 px-5 flex justify-between items-start" >
                        

@@ -18,7 +18,7 @@ const Gallery = () => {
             <TitlesComponent title={`Videos and Photos`} subtitle={`Explore our gallery`} />
             <div className="grid md:grid-cols-5 grid-cols-1 gap-5" >
                 <div className="md:col-span-2" >
-                    <Image src={images[4]} width={600} height={600} className="object-cover" />
+                    <Image src={images[4]} alt="Gallery" width={600} height={600} className="object-cover" />
                     <div className="mt-5" >
                         <h3 className="text-xl font-semibold text-[#50DBB4]" >10 Cloverfield Lane</h3>
                         <p>
@@ -31,9 +31,9 @@ const Gallery = () => {
                         <div className="grid grid-cols-3 gap-5" >
                             {
                                 images.map((v, i) => {
-                                    return <div className="relative">
-                                        <PhotoView key={i} src={v} >
-                                            <Image src={v} width={200} height={200} className="w-full h-full object-cover cursor-pointer hover:border-2 hover:scale-90 duration-500" />
+                                    return <div  key={i} className="relative">
+                                        <PhotoView src={v} >
+                                            <Image src={v} alt="galleries" width={200} height={200} className="w-full h-full object-cover cursor-pointer hover:border-2 hover:scale-90 duration-500" />
                                         </PhotoView>
                                         {/* <div className="absolute border-2 w-[90%] h-[90%] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 hover:opacity-100 duration-500 hover:backdrop-blur-sm" >
                                             <BsFillSearchHeartFill className="text-6xl absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" />
