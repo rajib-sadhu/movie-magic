@@ -3,8 +3,8 @@ import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import './globals.css'
 import { Inter } from 'next/font/google'
-import store from '@/redux/store/store'
-import { ReduxProvider } from '@/redux/Provider/provider'
+// import store from '@/redux/store/store'
+// import { ReduxProvider } from '@/redux/Provider/provider'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -18,11 +18,11 @@ export default function RootLayout({ children }) {
     <html>
 
       <body className={inter.className}>
-        <ReduxProvider>
+        {/* <ReduxProvider> */}
           <Navbar />
           {children}
           <Footer />
-        </ReduxProvider>
+        {/* </ReduxProvider> */}
       </body>
 
     </html>
