@@ -7,15 +7,15 @@ import Achievements from "./Achievements";
 import Gallery from "./Gallery";
 import Posters from "./Posters";
 import { useEffect, useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { fetchMovies } from "@/redux/features/moviesSlice";
+// import { useDispatch, useSelector } from "react-redux";
+// import { fetchMovies } from "@/redux/features/moviesSlice";
 
 const HomePage = () => {
 
     const [allMovies, setAllMovie] = useState([]);
 
     // const { movies, isLoading, error } = useSelector((state) => console.log(state));
-    const dispatch = useDispatch();
+    // const dispatch = useDispatch();
 
     // useEffect(() => {
     //     dispatch(fetchMovies());
