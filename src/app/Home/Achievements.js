@@ -18,8 +18,8 @@ const Achievements = () => {
                                 <BiMedal className="md:text-8xl text-3xl mx-auto text-[#227745]" />
                             </div>
                             <div>
-                                <h1 className="md:text-6xl text-2xl font-bold" >23</h1>
-                                <p className="md:text-xl text-xs font-semibold text-[#6b927b]" >Awards Won</p>
+                                <h1 className="md:text-6xl text-lg font-bold" >23</h1>
+                                <p className="md:text-xl text-[10px] font-semibold text-[#6b927b]" >Awards Won</p>
                             </div>
                         </div>
 
@@ -28,8 +28,8 @@ const Achievements = () => {
                                 <PiFilmReelFill className="md:text-8xl text-3xl mx-auto text-[#227745]" />
                             </div>
                             <div>
-                                <h1 className="md:text-6xl text-2xl font-bold" >30</h1>
-                                <p className="md:text-xl text-xs font-semibold text-[#6b927b]" >Films Partners</p>
+                                <h1 className="md:text-6xl text-lg font-bold" >30</h1>
+                                <p className="md:text-xl text-[10px] font-semibold text-[#6b927b]" >Films Partners</p>
                             </div>
                         </div>
                         
@@ -38,8 +38,8 @@ const Achievements = () => {
                                 <ImTicket className="md:text-8xl text-3xl mx-auto text-[#227745]" />
                             </div>
                             <div>
-                                <h1 className="md:text-6xl text-2xl font-bold" >980</h1>
-                                <p className="md:text-xl text-xs font-semibold text-[#6b927b]" >Tickets Sold</p>
+                                <h1 className="md:text-6xl text-lg font-bold" >980</h1>
+                                <p className="md:text-xl text-[10px] font-semibold text-[#6b927b]" >Tickets Sold</p>
                             </div>
                         </div>
 

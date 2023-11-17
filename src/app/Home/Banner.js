@@ -17,6 +17,9 @@ import styles from '@/app/styles/common.module.css';
 
 
 const Banner = () => {
+
+
+
     return (
         <div>
             <Swiper
@@ -88,7 +91,7 @@ const Banner = () => {
                                 </div>
                             </div>
                             <div className='relative' >
-                            <div className='absolute md:left-20 z-10' >
+                                <div className='absolute md:left-20 z-10' >
                                     <h4 className='md:text-xl text-shadow' >Release Year</h4>
                                     <p className='md:text-4xl text-xl font-bold releaseDate text-shadow' >2023</p>
                                 </div>

@@ -36,7 +36,7 @@ const TopMovies = () => {
                                 alt="Top movies"
                                 />
                             <div className="absolute w-full h-full bg-[#1c8d73e6] top-movie-details p-5" >
-                                <h1 className="text-2xl font-semibold text-[#c5ffef]" >{item.name}</h1>
+                                <h1 className="md:text-2xl font-semibold text-[#c5ffef]" >{item.name}</h1>
                                 <p className="text-sm text-white" >
                                     <span>Rating: 7/10</span>
                                     <span className="flex text-yellow-400">
